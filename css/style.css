@@ -7,9 +7,6 @@
     ul, li{
         list-style-type: none;
     }
-    .dsgsf{
-        color: rgba(9, 9, 11, 0.447);
-    }
     a {
         text-decoration: none;
     }
@@ -20,8 +17,6 @@
         background-color: #fff!important;
         color: #000;
         scroll-behavior: smooth;
-        --pink: #F85559;
-        --soft-pnik: #FBC0A8;
     }
     h1, h2, h3, h4, h4, h5, h6, p, a, span, button, a, input, li{
         font-family: "Poppins", sans-serif;
@@ -30,10 +25,6 @@
 
 /******************* HEADER *******************/
 /******************* HERO *******************/
-#slide1{
-    background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgba(2,0,36,0) 0%, rgba(107,107,107,0) 44%, rgba(0,0,0,0.8576680672268908) 100%);
-}
 /******************* DEAL OF THE DAY *******************/
 /******************* TEAM *******************/
 /******************* WHY CHOOSE *******************/
